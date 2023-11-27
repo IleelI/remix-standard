@@ -1,6 +1,7 @@
 # Welcome to Remix!
 
-[![License](https://img.bashields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Main Workflow](https://github.com/IleelI/remix-standard/actions/workflows/deploy.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
