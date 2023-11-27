@@ -4,11 +4,23 @@
 
 ## Development
 
-**From your terminal:**
+- To run application, type in your terminal:
 
-```sh
-pnpm dev
-```
+  ```sh
+  pnpm dev
+  ```
+
+- To run prisma studio, type in your terminal:
+
+  ```sh
+  pnpm prisma.studio
+  ```
+
+- To seed local database, type in your terminal:
+
+  ```sh
+  pnpm prisma.seed
+  ```
 
 ## Testing
 
@@ -28,6 +40,11 @@ pnpm dev
 
   ```sh
   pnpm test.single
+  ```
+- To run test coverage, type in your terminal:
+
+  ```sh
+  pnpm test.coverage
   ```
 
 ## Production
